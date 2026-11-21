@@ -1,0 +1,38 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment and secret files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Streamlit runtime output
+.streamlit/secrets.toml
+
+# Generated model and training artifacts
+# The supplied pretrained .pkl files are intentionally not ignored:
+# models/*.pkl
+*.joblib.tmp
