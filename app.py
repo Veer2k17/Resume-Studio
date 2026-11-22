@@ -413,14 +413,15 @@ if "screening_results" in st.session_state:
                 data.get("model_error")
                 or "Train the role model to enable this signal"
             )
-        elif data.get("confidence_source") == "profile":
-            role_detail = (
-                f"{data['model_confidence']:.0f}% profile match"
-            )
         else:
-            role_detail = (
-                f"{data['model_confidence']:.0f}% model confidence"
-            )
+            role_detail = f"{data['model_confidence']:.0f}% model confidence"
+            if data.get("model_category") and (
+                data["model_category"].upper() != data["predicted_role"].upper()
+            ):
+                role_detail += (
+                    f" · base category: "
+                    f"{data['model_category'].replace('-', ' ').title()}"
+                )
 
         result_card(
             "Predicted profile",

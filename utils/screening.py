@@ -417,6 +417,10 @@ def screen_resume(
         "predicted_role": role_result[
             "predicted_role"
         ],
+        "model_category": role_result.get(
+            "model_category",
+            role_result["predicted_role"]
+        ),
 
         "model_confidence": role_result[
             "model_confidence"
