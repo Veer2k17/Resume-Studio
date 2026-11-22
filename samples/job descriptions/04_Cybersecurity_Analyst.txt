@@ -1,0 +1,27 @@
+JOB TITLE: Cybersecurity Analyst
+
+ROLE OVERVIEW
+We are seeking a junior Cybersecurity Analyst to support security monitoring, vulnerability assessment, network analysis, and incident documentation. The role follows approved procedures and focuses on identifying, documenting, and escalating potential security concerns.
+
+RESPONSIBILITIES
+- Review security alerts and assist with initial incident triage.
+- Analyze system and network logs to identify unusual activity and potential indicators of compromise.
+- Use network analysis tools such as Wireshark to inspect authorized traffic captures.
+- Assist with vulnerability scanning, assessment reports, and remediation tracking.
+- Apply foundational knowledge of TCP/IP, DNS, HTTP/S, firewalls, and common web security risks.
+- Document findings clearly and escalate incidents according to established playbooks.
+- Support security awareness, asset documentation, and repeatable operational procedures.
+
+REQUIRED SKILLS
+- Foundational knowledge of cybersecurity and network security.
+- Understanding of TCP/IP, DNS, HTTP/S, and firewall concepts.
+- Familiarity with Linux and Windows environments.
+- Basic knowledge of vulnerability assessment and incident response.
+- Ability to analyze logs and document findings.
+- Scripting familiarity with Python or Bash is beneficial.
+
+PREFERRED QUALIFICATIONS
+- Exposure to Wireshark, Nmap, Burp Suite Community, Splunk, or SIEM platforms.
+- Familiarity with OWASP Top 10 and common web application vulnerabilities.
+- Home-lab, coursework, internship, or authorized practice-lab experience.
+- Strong attention to detail, risk awareness, and communication skills.

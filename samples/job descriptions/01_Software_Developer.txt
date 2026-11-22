@@ -1,0 +1,27 @@
+JOB TITLE: Software Developer
+
+ROLE OVERVIEW
+We are looking for a Software Developer to build and maintain reliable backend services and web applications. The role involves developing APIs, working with relational databases, contributing to frontend features, and collaborating with engineers through an iterative software development process.
+
+RESPONSIBILITIES
+- Develop and maintain backend services and REST APIs using Java, Spring Boot, or Python.
+- Build and improve web application features using JavaScript and React.
+- Design, query, and optimize relational databases such as PostgreSQL and MySQL.
+- Apply input validation, error handling, unit testing, and code review practices.
+- Use Git-based workflows and participate in sprint planning, pull requests, and team reviews.
+- Investigate application issues, improve performance, and document technical changes.
+- Work with deployment tools and cloud platforms such as Docker, Linux, and AWS.
+
+REQUIRED SKILLS
+- Programming experience in Java or Python.
+- Understanding of REST API development and backend application architecture.
+- Familiarity with SQL and relational databases.
+- Knowledge of JavaScript and frontend fundamentals.
+- Experience with Git, debugging, and unit testing.
+- Understanding of object-oriented programming and data structures.
+
+PREFERRED QUALIFICATIONS
+- Experience with Spring Boot, React, Flask, or similar frameworks.
+- Familiarity with PostgreSQL, MySQL, Redis, Docker, Linux, or AWS.
+- Academic, internship, or personal projects involving full-stack applications or backend services.
+- Ability to communicate technical decisions and work collaboratively.

@@ -1,0 +1,27 @@
+JOB TITLE: Frontend Developer
+
+ROLE OVERVIEW
+We are looking for a Frontend Developer to build responsive, accessible, and maintainable web interfaces. The developer will translate design requirements into reusable components, integrate APIs, test user interactions, and collaborate with design and backend teams.
+
+RESPONSIBILITIES
+- Build responsive web pages and reusable UI components using JavaScript, TypeScript, and React.
+- Translate Figma designs into consistent layouts using HTML and CSS.
+- Use React frameworks and tools such as Next.js, Tailwind CSS, and Vite where appropriate.
+- Integrate REST APIs and handle loading, success, and error states.
+- Improve accessibility, keyboard navigation, form validation, and cross-browser behavior.
+- Write and maintain frontend tests using Jest, React Testing Library, or Playwright.
+- Debug browser issues and collaborate with designers and backend developers.
+- Document components and contribute to code reviews using Git.
+
+REQUIRED SKILLS
+- Proficiency in JavaScript, HTML, and CSS.
+- Familiarity with React and component-based development.
+- Understanding of responsive design and browser debugging.
+- Ability to consume REST APIs and manage application states.
+- Knowledge of Git and basic frontend testing practices.
+
+PREFERRED QUALIFICATIONS
+- Experience with TypeScript, Next.js, Tailwind CSS, or Vite.
+- Exposure to Figma, Chrome DevTools, Jest, React Testing Library, or Playwright.
+- Projects involving dashboards, portals, forms, or API-powered interfaces.
+- Understanding of accessibility fundamentals and reusable component architecture.

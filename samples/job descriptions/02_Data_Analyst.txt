@@ -1,0 +1,27 @@
+JOB TITLE: Data Analyst
+
+ROLE OVERVIEW
+We are seeking an entry-level Data Analyst who can transform raw business data into reliable analysis and clear visual insights. The analyst will work with structured datasets, write SQL queries, prepare reports, and communicate findings to stakeholders.
+
+RESPONSIBILITIES
+- Collect, clean, validate, and combine datasets from multiple sources.
+- Use SQL to query data and prepare recurring business reports.
+- Analyze trends, customer behavior, revenue, retention, and operational performance.
+- Use Python libraries such as Pandas and NumPy for data preparation and exploratory analysis.
+- Build dashboards and visual reports using Power BI or Tableau.
+- Apply descriptive statistics and basic hypothesis testing where appropriate.
+- Explain findings, assumptions, data limitations, and recommendations to project teams.
+
+REQUIRED SKILLS
+- Proficiency in SQL and working knowledge of Python.
+- Familiarity with Pandas, NumPy, and data cleaning techniques.
+- Understanding of descriptive statistics and exploratory data analysis.
+- Ability to create charts and dashboards.
+- Good spreadsheet skills, including Microsoft Excel.
+- Clear written and verbal communication.
+
+PREFERRED QUALIFICATIONS
+- Exposure to Power BI, Tableau, Matplotlib, or Seaborn.
+- Experience with Jupyter Notebook and Git.
+- Academic or internship projects involving sales, customer, survey, or operational datasets.
+- Familiarity with data quality checks, missing-value treatment, and reporting.

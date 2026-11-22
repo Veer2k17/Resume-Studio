@@ -1,0 +1,28 @@
+JOB TITLE: Machine Learning Engineer
+
+ROLE OVERVIEW
+We are looking for a Machine Learning Engineer to prepare data, develop and evaluate machine learning models, and help integrate models into usable applications. The role spans experimentation, model assessment, NLP or computer vision projects, and basic model deployment.
+
+RESPONSIBILITIES
+- Prepare datasets through data cleaning, preprocessing, and feature engineering.
+- Develop supervised machine learning models using Python and Scikit-learn.
+- Train and evaluate models using precision, recall, F1-score, and confusion matrices.
+- Build NLP and text-classification workflows using suitable vectorization or transformer techniques.
+- Experiment with deep learning frameworks such as PyTorch or TensorFlow.
+- Explore computer vision workflows, image augmentation, and class-wise evaluation.
+- Package model inference functionality through REST APIs using FastAPI or Flask.
+- Document experiments, compare baselines, and communicate model limitations.
+
+REQUIRED SKILLS
+- Strong Python programming and familiarity with SQL.
+- Experience with Pandas, NumPy, and Scikit-learn.
+- Understanding of supervised learning, model evaluation, and feature engineering.
+- Familiarity with NLP, text classification, or information retrieval.
+- Knowledge of PyTorch or TensorFlow.
+- Basic experience with Git and model deployment concepts.
+
+PREFERRED QUALIFICATIONS
+- Projects involving NLP, computer vision, semantic similarity, or classification.
+- Familiarity with FastAPI, Flask, Streamlit, Docker, and REST APIs.
+- Understanding of TF-IDF, embeddings, transformers, and data augmentation.
+- A degree or coursework in Computer Science, Artificial Intelligence, Machine Learning, or a related field.
